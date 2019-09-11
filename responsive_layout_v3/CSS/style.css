@@ -206,7 +206,7 @@ hr {
 
 /* Media Queries */
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
 
     .container {
         width: 97%;
@@ -280,7 +280,7 @@ hr {
     }
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1024px) {
     
     .container {
 		width: 90%;
